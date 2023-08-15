@@ -1,5 +1,5 @@
  ### Hi, there, I'm Seongkuk Han 👋
-I worked as a frontend engineer for about two years in South Korea, primarily focusing on React. Although I mostly worked in Frontend, I also have a desire to get experience in different areas of software development. I am dedicated, enthusiastic about my work and enjoy working with colleges. 
+I worked as a frontend engineer for about two years in South Korea, primarily focusing on React. Although I mostly worked in frontend, I also have a desire to get experience in different areas of software development. I am dedicated, enthusiastic about my work and enjoy working with colleges. 
 
 Recently, I moved to Frankfurt with a working holiday visa to achieve my long-time goal of working abroad, and I am currently working on improving my English skills and actively seeking opportunities with companies in Germany.
 
