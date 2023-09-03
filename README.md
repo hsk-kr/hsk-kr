@@ -1,7 +1,9 @@
  ### Hi, there, I'm Seongkuk Han 👋
-I worked as a frontend engineer for about two years in South Korea, primarily focusing on React. Although I mostly worked in frontend, I also have a desire to get experience in different areas of software development. I am dedicated, enthusiastic about my work and enjoy working with colleges. 
+As a frontend engineer with over 2 years of experience in building and maintaining web applications, I possess proficiency in React, HTML, CSS, JavaScript, TypeScript, and React. Additionally, I have gained secondary experience in Node.js and Python.
 
-Recently, I moved to Frankfurt with a working holiday visa to achieve my long-time goal of working abroad, and I am currently working on improving my English skills and actively seeking opportunities with companies in Germany.
+My passion for the field has driven me to pursue opportunities for growth and development, which led me to relocate to Germany to broaden my experience as a developer. I am now actively seeking a dynamic team where I can contribute my full dedication and expertise.
+
+I have a strong commitment to learning and continually improving my skills. I am enthusiastic about leveraging my knowledge to contribute to the success of the organization I join.
 
 Please feel free to contact me.
 
