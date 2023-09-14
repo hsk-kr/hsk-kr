@@ -1,12 +1,12 @@
  ### Hi, there, I'm Seongkuk 👋
 
-I enjoy coding and love learning through interacting with other developers.
+I enjoy coding and love learning through interacting with other developers.<br />
 Coding is like a bridge that allows me to connect with new people.
 
-Although my expertise primarily lies in Frontend development, I'm also eager to explore the backend and other areas of software development.
+Although my expertise primarily lies in Frontend development, I'm also eager to explore the backend and other areas of software development.<br />
 I'm open to feedback, mentoring, study, code reviews, talks, and collaboration. I am welcoming to everything!
 
-Feel free to reach out to me.
+Feel free to reach out to me.<br />
 I will be waiting for great opportunities to get to know you guys!
 
 ---
