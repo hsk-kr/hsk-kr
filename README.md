@@ -1,9 +1,16 @@
- ### Hi, there, I'm Seongkuk 👋
+ ### Hi, there, I'm Han 👋
 
-I do enjoy coding and love interacting with other developers.<br />
-Although my expertise lies in frontend, I am interested in software development in general, backend, devops, tools, or anything.
+I like coding and chatting about programming.
 
-Feel free to reach out to me on LinkedIn!
+I got into coding because I was fascinated by the idea that I can bring my ideas into real world.
+
+Let’s forget about job related things.
+
+How did you start your journey? What’s your goal?
+
+I would love to hear your story.
+
+Feel free to reach out on LinkedIn!
 
 ---
 
@@ -28,3 +35,5 @@ Feel free to reach out to me on LinkedIn!
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img align="left" alt="node" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
